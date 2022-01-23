@@ -1,0 +1,26 @@
+connect server1 1
+wait 50
+send /factions
+wait 50
+send /msg _Stunnin ALT
+wait 50
+send /home
+wait 50
+
+connect server1 2
+wait 50
+send /factions
+wait 50
+send /msg _Stunnin ALT
+wait 50
+send /home
+wait 50
+
+connect server1 3
+wait 50
+send /factions
+wait 50
+send /msg _Stunnin ALT
+wait 50
+send /home
+wait 50

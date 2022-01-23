@@ -1,0 +1,6 @@
+send /factions
+wait 50
+respawn
+wait 50
+send /home
+wait 50
